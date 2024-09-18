@@ -1,6 +1,6 @@
 # Yerevan Car Parking Patterns Analysis
 
->  **Warning**: Data folder is not provided due to privaet sensitive data belonging to Perigon AI
+>  **Warning**: Data folder is not provided.
 
 Welcome to the Yerevan Parking Pattern Analysis project! <br>
 
